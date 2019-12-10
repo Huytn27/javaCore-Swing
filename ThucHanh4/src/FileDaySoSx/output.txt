@@ -1,0 +1,6 @@
+day chua sx . ta sx lai day :
+19 12 9 8 6 5 4 1 
+1 4 5 6 8 9 12 19 
+day chua sx . ta sx lai day :
+8 7 6 5 4 3 2 1 
+1 2 3 4 5 6 7 8 

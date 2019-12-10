@@ -1,0 +1,2 @@
+tong dãy số là 45
+Dãy số nguyên tố là : 2 3 5 7 
